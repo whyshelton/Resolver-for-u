@@ -1,7 +1,7 @@
 #pragma once
 
 class ShotRecord;
-
+--everything was done on God’s word and through a crutch, so I advise you to change the backup because it’s trash, but I’m too lazy to change anything
 struct BackupData_t {
 	CCSGOPlayerAnimState   m_nBackupState;
 	C_AnimationLayer       m_nBackupLayers[ 13 ];
